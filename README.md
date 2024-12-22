@@ -1,4 +1,5 @@
 # DemoRepo
+G Rohit Malyadri
 "Hello!
 I'm a second-year Computer Science student with a passion for coding, problem-solving, and innovation. I thrive on challenging myself on platforms like CodeChef, LeetCode, and GeeksforGeeks, constantly sharpening my skills and learning from every experience. Currently, I am diving deep into Java and Data Structures & Algorithms to strengthen my technical foundation.
 
